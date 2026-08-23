@@ -73,12 +73,12 @@ Desafio prático de encerramento do módulo, em que foi preciso ir além de apen
 ## 🎓 Certificado
 
 <p align="center">
-  <a href="img/certificado-ia-generativa-alta-performance.pdf">
-    <img src="img/certificado-ia-generativa-alta-performance.png" alt="Micro-certificado - IA Generativa e Alta Performance" width="600">
+  <a href="assets/certificado-ia-generativa-alta-performance.pdf">
+    <img src="assets/certificado-ia-generativa-alta-performance.png" alt="Micro-certificado - IA Generativa e Alta Performance" width="600">
   </a>
 </p>
 
-📄 [Abrir certificado em PDF](img/certificado-ia-generativa-alta-performance.pdf)
+📄 [Abrir certificado em PDF](assets/certificado-ia-generativa-alta-performance.pdf)
 
 ---
 
