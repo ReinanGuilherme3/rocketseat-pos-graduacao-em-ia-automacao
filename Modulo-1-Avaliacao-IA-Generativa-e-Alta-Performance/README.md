@@ -72,11 +72,9 @@ Desafio prático de encerramento do módulo, em que foi preciso ir além de apen
 
 ## 🎓 Certificado
 
-<p align="center">
-  <a href="assets/certificado-ia-generativa-alta-performance.pdf">
-    <img src="assets/certificado-ia-generativa-alta-performance.png" alt="Micro-certificado - IA Generativa e Alta Performance" width="600">
-  </a>
-</p>
+[![Micro-certificado - IA Generativa e Alta Performance](../assets/certificado-ia-generativa-alta-performance.png)](../assets/certificado-ia-generativa-alta-performance.pdf)
+
+📄 [Abrir certificado em PDF](../assets/certificado-ia-generativa-alta-performance.pdf)
 
 📄 [Abrir certificado em PDF](assets/certificado-ia-generativa-alta-performance.pdf)
 
@@ -86,10 +84,12 @@ Desafio prático de encerramento do módulo, em que foi preciso ir além de apen
 
 ```
 .
-├── img/
+rocketseat-pos-graduacao-em-ia-automacao/
+├── assets/
 │   ├── certificado-ia-generativa-alta-performance.pdf
 │   └── certificado-ia-generativa-alta-performance.png
-└── README.md
+└── Modulo-1-Avaliacao-IA-Generativa-e-Alta-Performance/
+    └── README.md
 ```
 
 ---
