@@ -1,109 +1,76 @@
-# 🤖 Módulo 1 — IA Generativa e Alta Performance
+# 🤖 IA Generativa e Alta Performance
 
-> Pós-graduação em **IA e Automação**  
-> Status: **✅ Aprovado** · Micro-certificado emitido em **23/08/2026**
+> **Módulo 1** — Pós-graduação em IA e Automação
 
-Domine ferramentas de IA generativa, otimize sua performance pessoal e crie soluções práticas sem código. Trilha focada em planejar, automatizar tarefas e desenvolver projetos com foco em resultados reais.
-
----
-
-## 📊 Resumo
-
-| Indicador | Valor |
-|---|---|
-| Níveis concluídos | 15 |
-| Módulos de vídeo | 14 |
-| Aulas assistidas | 176 |
-| Carga horária | ~21h12min |
-| Quizzes obrigatórios | 14 (207 questões) |
-| Aproveitamento médio | 99% |
-| Projeto prático | 1 (NotebookLM) |
+Primeiro módulo da pós, dedicado a entender como a Inteligência Artificial generativa funciona por dentro e como usá-la de forma prática — tanto para produzir mais e melhor no dia a dia quanto para construir soluções reais, mesmo sem escrever código.
 
 ---
 
-## 🗂️ Conteúdo da trilha
+## 📚 O que foi aprendido
 
-### Nível 1 — Perfomance e produtividade nos estudos
-`7 aulas · 1h53min` · Quiz: **100%**
+### Estudo, aprendizagem e produtividade
 
-Estratégias para otimizar a aprendizagem, abordando neurociência, automação, planejamento e produtividade. Técnicas comprovadas para estruturar um plano de estudos inteligente, melhorando retenção e desempenho com menos esforço.
+O módulo começa pela base: como aprender melhor. Aqui entrou a parte de neurociência aplicada aos estudos, planejamento e organização da rotina de aprendizagem, e como montar um plano de estudos que privilegia retenção em vez de esforço bruto.
 
-### Nível 2 — Aprendizagem Acelerada com IA
-`21 aulas · 1h43min` · Quiz: **100%**
+Na sequência, essas estratégias foram combinadas com IA. Técnicas clássicas como **SMART** e **Feynman** foram adaptadas ao uso de IA generativa para transformar livros, vídeos, artigos e documentos em conhecimento estruturado — gerando resumos, mapas mentais, visualizações e até podcasts a partir do próprio material de estudo.
 
-Aceleração do processo de aprendizagem com apoio de IA. Técnicas como **SMART** e **Feynman** adaptadas à IA generativa para transformar livros, vídeos, artigos e documentos em conhecimento estruturado e aplicável — gerando resumos, mapas mentais, visualizações e podcasts de forma automatizada.
+### Fundamentos de IA Generativa
 
-### Nível 3 — Fundamentos de IA Generativa
-`16 aulas · 2h54min` · Quiz: **100%**
+A parte conceitual do módulo: o que são os modelos generativos, como eles realmente funcionam e por que funcionam. O foco principal ficou na arquitetura dos **Transformers**, que é a base dos modelos atuais, e em como isso se traduz na prática em tarefas de raciocínio, geração de código e automação de processos.
 
-Conceitos essenciais da IA Generativa e seus principais modelos. Foco especial na arquitetura dos **Transformers** e na aplicação prática em tarefas de raciocínio, geração de código e automação de processos.
+### Engenharia de Prompt
 
-### Nível 4 — Prompt Engineering para Alta Performance
-`12 aulas · 1h6min` · Quiz: **100%**
+Como conversar com um modelo de forma que ele entregue o que se espera. Foram trabalhadas estratégias de construção e otimização de prompts para diferentes contextos, entendendo o impacto de estrutura, contexto e clareza na qualidade da resposta — com aplicações práticas, como a geração automatizada de relatórios.
 
-Projeto e otimização de prompts para respostas mais precisas e eficazes. Estratégias de engenharia de prompts voltadas à performance em diferentes contextos, com aplicações práticas como a geração automatizada de relatórios.
+### Ferramentas do ecossistema Google
 
-### Nível 5 — Gemini e Google AI Studio
-`11 aulas · 1h0min` · Quiz: **100%**
+Exploração do **Gemini** e do **Google AI Studio**: conceito de tokens, modelos multimodais, diferenças entre os planos, e recursos avançados como Deep Research, Canvas, geração de imagens, vídeos e textos, além da integração com os demais aplicativos do Google.
 
-Ecossistema de IA do Google com foco em **Gemini** e **Google AI Studio**: tokens, engenharia de prompt, modelos multimodais, diferenças entre planos gratuitos e pagos, além de Deep Research, Canvas, criação de imagens/vídeos/textos e integração com aplicativos Google.
+### Fundamentos da Web
 
-### Nível 6 — Fundamentos da Web (parte 1)
-`12 aulas · 49min` · Quiz: **100%**
+Uma base técnica necessária para quem vai trabalhar com automação: como aplicações conversam entre si por meio de **APIs** e **JSON**, o que é Web Scraping, como o HTML e a **DOM** se estruturam, e como funciona a infraestrutura por trás dos servidores.
 
-Fundamentos da web essenciais para automação e IA: comunicação entre aplicações, **APIs** e **JSON**, Web Scraping, HTML, estrutura de dados, **DOM** e a infraestrutura necessária para interagir com servidores.
+Depois, um aprofundamento em **HTTP** — requisições e respostas, o modelo *stateless* e o papel do navegador nesse fluxo. É o vocabulário que permite entender o que está acontecendo quando uma automação chama um serviço externo.
 
-### Nível 7 — Fundamentos da Web (parte 2)
-`15 aulas · 1h25min` · Quiz: **93%**
+### Alta performance profissional e gestão de tempo
 
-Aprofundamento em **HTTP**: requisições e respostas, a importância do modelo *stateless* e como o navegador lida com isso.
+A ponte entre a ferramenta e a carreira. Os pilares de clareza, energia e foco aplicados ao desenvolvimento pessoal, tratando a IA como copiloto estratégico para produtividade, comunicação e aprendizado contínuo.
 
-### Nível 8 — Alta Performance Profissional com IA
-`9 aulas · 1h40min` · Quiz: **100%**
+Também foi abordado o uso da IA na organização pessoal e profissional: priorização de tarefas, estruturação de rotinas e estratégias práticas para ganhar tempo no dia a dia.
 
-Pilares da alta performance profissional — clareza, energia e foco — aplicados ao desenvolvimento pessoal e de carreira, usando a IA como copiloto estratégico para produtividade, comunicação e aprendizado contínuo.
+### Docker e Open WebUI
 
-### Nível 9 — Gestão de Tempo com IA
-`17 aulas · 2h50min` · Quiz: **100%**
+Parte mais hands-on do módulo. Primeiro os fundamentos do **Docker** — conceitos, instalação, uso por interface gráfica e por linha de comando, e criação e gerenciamento de containers para ambientes portáteis e consistentes.
 
-Uso da IA para otimizar a organização pessoal e profissional, com ferramentas e estratégias de priorização de tarefas e aumento de produtividade no dia a dia.
+Com essa base, veio o **Open WebUI**: instalação, configuração e uso para gerenciar LLMs, integração com APIs, bases de conhecimento, personalização de modelos, colaboração em grupo e orquestração via **Portainer** — rodando tanto localmente quanto em VPS, com atenção a privacidade.
 
-### Nível 10 — Fundamentos do Docker
-`12 aulas · 1h12min` · Quiz: **100%**
+### MCP e automação
 
-Conceitos, instalação, interface gráfica e linha de comando do **Docker**. Criação, execução e gerenciamento de containers para ambientes de desenvolvimento portáteis, consistentes e escaláveis.
+Conceitos e aplicações do **Model Context Protocol (MCP)**: a evolução dos bots até os agentes de IA, o funcionamento do *Function Calling*, a integração entre modelos, ferramentas e hosts, e boas práticas de segurança.
 
-### Nível 11 — Utilizando o Open WebUI
-`20 aulas · 1h15min` · Quiz: **100%**
+Fechando essa parte, o pensamento computacional aplicado à automação — decomposição, abstração, reconhecimento de padrões e construção de algoritmos — com aplicação prática em ferramentas como o **n8n**.
 
-Instalação, configuração e uso do **Open WebUI** para gerenciamento de LLMs, integração com APIs e ferramentas avançadas. Práticas de privacidade, colaboração em grupos, ambientes locais ou em VPS, bases de conhecimento, personalização de modelos e orquestração via **Portainer**.
+### Gestão de produtos com IA
 
-### Nível 12 — Fundamentos de MCP
-`8 aulas · 39min` · Quiz: **100%**
+Como a IA entra no ciclo de vida de um produto, da concepção à entrega: apoio à tomada de decisão estratégica, análise de dados, personalização de experiências e otimização de processos.
 
-Conceitos e aplicações do **Model Context Protocol (MCP)**: evolução desde bots e agentes de IA, uso de *Function Calling*, integração com ferramentas e hosts, práticas seguras e exemplos com Docker para automações inteligentes e escaláveis.
+---
 
-### Nível 13 — Algoritmos para Automações
-`6 aulas · 39min` · Quiz: **100%**
+## 🧪 Projeto final
 
-Pensamento computacional aplicado à automação: decomposição, abstração, reconhecimento de padrões e construção de algoritmos, com aplicação prática em ferramentas como **n8n**.
+**Assistente Especializado com NotebookLM**
 
-### Nível 14 — Gestão de Produtos e IA
-`10 aulas · 2h7min` · Quiz: **93%**
+Desafio prático de encerramento do módulo, em que foi preciso ir além de apenas configurar uma IA e assumir dois papéis ao mesmo tempo: o de criador de produto, definindo o propósito e o público do assistente, e o de engenheiro de prompts, moldando o comportamento e as respostas dele.
 
-Aplicação da IA à gestão de produtos, da concepção à entrega: decisões estratégicas, análise de dados, personalização de experiências e otimização de processos.
+---
 
-### Nível 15 — Avaliação Final
-`Projeto obrigatório`
+## 🧰 Ferramentas e tecnologias
 
-**Desafio Prático: Assistente Especializado com NotebookLM** — indo além da configuração de uma IA, assumindo os papéis de criador de produtos e engenheiro de prompts.
+`IA Generativa` · `Transformers` · `Prompt Engineering` · `Gemini` · `Google AI Studio` · `NotebookLM` · `Docker` · `Open WebUI` · `Portainer` · `MCP` · `Function Calling` · `n8n` · `APIs` · `JSON` · `HTTP` · `Web Scraping`
 
 ---
 
 ## 🎓 Certificado
-
-Micro-certificado — **IA Generativa e Alta Performance**  
-Emitido em **23/08/2026**
 
 <p align="center">
   <a href="img/certificado-ia-generativa-alta-performance.pdf">
@@ -112,12 +79,6 @@ Emitido em **23/08/2026**
 </p>
 
 📄 [Abrir certificado em PDF](img/certificado-ia-generativa-alta-performance.pdf)
-
----
-
-## 🧰 Principais tecnologias e ferramentas
-
-`IA Generativa` · `Transformers` · `Prompt Engineering` · `Gemini` · `Google AI Studio` · `NotebookLM` · `Docker` · `Open WebUI` · `Portainer` · `MCP` · `Function Calling` · `n8n` · `APIs / JSON / HTTP` · `Web Scraping`
 
 ---
 
@@ -133,6 +94,4 @@ Emitido em **23/08/2026**
 
 ---
 
-## 🚀 Próximos módulos
-
-Esta trilha faz parte da pós-graduação em **IA e Automação**. Os próximos módulos serão adicionados a este repositório conforme forem concluídos.
+Este módulo faz parte da pós-graduação em **IA e Automação**. Os próximos serão adicionados ao repositório conforme forem concluídos.
