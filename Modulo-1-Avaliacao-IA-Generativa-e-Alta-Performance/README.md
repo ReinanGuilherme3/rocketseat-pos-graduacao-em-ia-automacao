@@ -76,8 +76,6 @@ Desafio prático de encerramento do módulo, em que foi preciso ir além de apen
 
 📄 [Abrir certificado em PDF](../assets/certificado-ia-generativa-alta-performance.pdf)
 
-📄 [Abrir certificado em PDF](assets/certificado-ia-generativa-alta-performance.pdf)
-
 ---
 
 ## 📁 Estrutura do projeto
